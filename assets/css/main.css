@@ -697,6 +697,7 @@ hr {
 .particles_js .img-thumb{
     z-index: 22;
     position: relative;
+		
 }
 .particles_js #particles-js{
   position: absolute;
