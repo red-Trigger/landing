@@ -691,7 +691,7 @@ hr {
   overflow: hidden;
   position: relative;
   background: #f8f9fb;
-  height: 100vh;
+  height: 60vh;
 }
 .particles_js .contents,
 .particles_js .img-thumb{
