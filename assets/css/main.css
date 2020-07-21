@@ -254,8 +254,8 @@ a.back-to-top:hover, a.back-to-top:focus {
   text-align: center;
 }
 .loader img{
-    -webkit-animation: fa-spin 2s infinite linear;
-    animation: fa-spin 2s infinite linear;
+   /* -webkit-animation: fa-spin 2s infinite linear;
+    animation: fa-spin 2s infinite linear;*/
 }
 .fa-spin {
 -webkit-animation: fa-spin 2s infinite linear;
@@ -691,13 +691,12 @@ hr {
   overflow: hidden;
   position: relative;
   background: #f8f9fb;
-  height: 60vh;
+  height: 100vh;
 }
 .particles_js .contents,
 .particles_js .img-thumb{
     z-index: 22;
     position: relative;
-		
 }
 .particles_js #particles-js{
   position: absolute;
